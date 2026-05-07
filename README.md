@@ -11,3 +11,4 @@ I am learning GitHub and digital skills.
 ## Goals
 - Learn GitHub
 - Build Professional Portfolio
+- use of AI i boost Mytrading to Another Level
